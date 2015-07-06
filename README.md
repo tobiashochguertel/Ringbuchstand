@@ -22,4 +22,4 @@ Das Sichtbuch ist etwas kürzer als das Ringbuch. Das führt dazu das Sichtbüch
 
 ## Checkliste
 
-- [ ] Sketchup Layout Plan #1
+- [ ] Bauplan erstellen (Sketchup Layout)
