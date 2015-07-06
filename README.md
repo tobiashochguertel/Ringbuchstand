@@ -1,4 +1,9 @@
 # Ringbuchstand
+
+![https://raw.githubusercontent.com/tobiashochguertel/Ringbuchstand/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20ISO-Ansicht%2C%20R%C3%B6ntgenblick.png](https://raw.githubusercontent.com/tobiashochguertel/Ringbuchstand/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20ISO-Ansicht%2C%20R%C3%B6ntgenblick.png)
+
+*Weitere Bilder: * [Ringbuchstand Sketchup Model, Front, Normal](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20Front%2C%20Normal.png), [Ringbuchstand Sketchup Model, ISO-Ansicht, Normal.png](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20ISO-Ansicht%2C%20Normal.png), [Ringbuchstand Sketchup Model, Top-ISO, Normal.png](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20Top-ISO%2C%20Normal.png)
+
 Einfacher Stand mit Fächern für Ringbücher und Sichtbücher.
 
 Model in Sketchup importieren: [3D Warehouse](https://3dwarehouse.sketchup.com/social/model.html?id=u0d42f2a6-1e39-45c4-8909-ce3c2f7a5676)
@@ -15,3 +20,6 @@ Sichtbuch A4 40 Hüllen tr.farbl. Kunststoffeinband PP
 
 Das Sichtbuch ist etwas kürzer als das Ringbuch. Das führt dazu das Sichtbücher sich hinter Ringbüchern verstecken. Um beide auf die gleiche Länge zu bringen, wird hinten an der Rückwand ein Abstandshalter für Ringbücher flexibel eingesetzt an den gewünschten Positionen.
 
+## Checkliste
+
+- [ ] Sketchup Layout Plan #1 refs
