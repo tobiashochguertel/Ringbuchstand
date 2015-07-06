@@ -2,7 +2,7 @@
 
 ![https://raw.githubusercontent.com/tobiashochguertel/Ringbuchstand/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20ISO-Ansicht%2C%20R%C3%B6ntgenblick.png](https://raw.githubusercontent.com/tobiashochguertel/Ringbuchstand/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20ISO-Ansicht%2C%20R%C3%B6ntgenblick.png)
 
-*Weitere Bilder: * [Ringbuchstand Sketchup Model, Front, Normal](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20Front%2C%20Normal.png), [Ringbuchstand Sketchup Model, ISO-Ansicht, Normal.png](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20ISO-Ansicht%2C%20Normal.png), [Ringbuchstand Sketchup Model, Top-ISO, Normal.png](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20Top-ISO%2C%20Normal.png)
+*Weitere Bilder: [Ringbuchstand Sketchup Model, Front, Normal](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20Front%2C%20Normal.png), [Ringbuchstand Sketchup Model, ISO-Ansicht, Normal.png](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20ISO-Ansicht%2C%20Normal.png), [Ringbuchstand Sketchup Model, Top-ISO, Normal.png](https://github.com/tobiashochguertel/Ringbuchstand/blob/master/Dokumentation/Rungbuchstand%20Sketchup%20Model%2C%20Top-ISO%2C%20Normal.png)*
 
 Einfacher Stand mit Fächern für Ringbücher und Sichtbücher.
 
