@@ -23,3 +23,7 @@ Das Sichtbuch ist etwas kürzer als das Ringbuch. Das führt dazu das Sichtbüch
 ## Checkliste
 
 - [ ] Bauplan erstellen (Sketchup Layout)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tobiashochguertel/ringbuchstand/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
